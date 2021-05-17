@@ -1,0 +1,34 @@
+MODULES
+
+1.MASTER
+	1.EVENT CREATION
+	2.RSVP MODULE
+2.STUDENT
+	1.CREATE USER ACCOUNT(SIGN UP)
+	2.EVENT REGISTRATION
+	3.VIEW ATTENDANCE
+
+
+
+
+
+I.EVENT
+
+Event title
+Event date and time
+Event location
+Max Number of Participants
+Event Description
+Event banner
+
+PAGES
+------
+HOME PAGE
+
+upcoming events opted for
+other events
+
+USER PROFILE PAGE
+
+all events attended
+should show number of attendies
